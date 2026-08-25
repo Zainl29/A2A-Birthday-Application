@@ -3,7 +3,7 @@
 #### Prerequisites
 
 1. **uv:** The Python package management tool 
-2. python 3.13
+2. python 3.13+
 
 
 
